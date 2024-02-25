@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["13463222471", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["593968585383"], 
+["13463222471", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //kokinia
+["3166045994"], 
 ["593968263524"], ["5492266613038"], ["5217294888993"], ["51948705559"]]
 
 global.mods = []
@@ -121,10 +121,10 @@ global.official = [ // Agregate si eres Owner
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
 global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
-global.country = '' // Add country, example: 🇪🇨
+global.country = '🇨🇴' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "Nikokinia-bot"
+global.packname = "kokinia-bot"
 global.author = "livi"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
